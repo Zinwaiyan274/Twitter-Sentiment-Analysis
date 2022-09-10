@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis Using Machine lea
+# Twitter Sentiment Analysis Using Machine learning
 
 [Documentation](https://docs.google.com/document/d/17qDnMFT9dDwXdbcRyiZa7N66W6XenD8cy4rr1ZpSaDo/edit?usp=sharing)
 
